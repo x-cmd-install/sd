@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.0"
   latestRelease: "v1.1.0"
   latestPrerelease: "1.0.0-beta.0"
-  collectedAt: 2026-09-09T04:31:38Z
+  collectedAt: 2026-09-09T18:38:17Z
 timeline:
   created: 2018-12-23
   lastCommit: 2026-02-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-25
   lastPrerelease: 2023-11-05
 popularity:
-  star: 7346
+  star: 7347
   watcher: 33
   fork: 170
   release: 12
@@ -87,7 +87,7 @@ total:
   commit: 336
 ---
 path: /home/runner/.x-repo/github.com/chmln/sd
-collectedAt: 2026-09-09T04:31:39Z
+collectedAt: 2026-09-09T18:38:19Z
 loc:
   Rust:
     code: 1700
