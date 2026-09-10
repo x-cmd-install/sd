@@ -22,11 +22,24 @@ x install sd
 - **Latest**: `v1.1.0` (2026-02-25)
 - **Last commit**: 2026-02-25
 - **Assets in release**: 9
-- **Published**: 2026-02-25T19:27:05Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [sd-v1.1.0-aarch64-apple-darwin.tar.gz](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-aarch64-apple-darwin.tar.gz) | 832.7 KiB | `native/darwin/arm64` |
+| [sd-v1.1.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-aarch64-unknown-linux-musl.tar.gz) | 903.3 KiB | `native/linux/arm64/musl` |
+| [sd-v1.1.0-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-arm-unknown-linux-gnueabihf.tar.gz) | 875.1 KiB | `native/linux/arm/glibc` |
+| [sd-v1.1.0-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-armv7-unknown-linux-gnueabihf.tar.gz) | 863.4 KiB | `native/linux/arm/glibc` |
+| [sd-v1.1.0-x86_64-apple-darwin.tar.gz](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-apple-darwin.tar.gz) | 906.2 KiB | `native/darwin/x64` |
+| [sd-v1.1.0-x86_64-pc-windows-gnu.zip](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-pc-windows-gnu.zip) | 893.8 KiB | `native/win/x64` |
+| [sd-v1.1.0-x86_64-pc-windows-msvc.zip](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-pc-windows-msvc.zip) | 867.2 KiB | `native/win/x64` |
+| [sd-v1.1.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-unknown-linux-gnu.tar.gz) | 965.6 KiB | `native/linux/x64/glibc` |
+| [sd-v1.1.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-unknown-linux-musl.tar.gz) | 1.0 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 7,347 · **Forks**: 170 · **Open issues**: 192 · **Contributors**: 30
+- **Stars**: 7,350 · **Forks**: 170 · **Open issues**: 192 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -67,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for sd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sd.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/sd.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:11:11Z._
