@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 852694,
       "digest": "sha256:4bd3c09226376ca0a1d69589c91e86276fae36c5fbaaee669afce583f6682030",
-      "download_count": 15481,
+      "download_count": 15523,
       "created_at": "2026-02-25T19:27:27Z",
       "updated_at": "2026-02-25T19:27:27Z",
       "browser_download_url": "https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 924956,
       "digest": "sha256:ec8c93c0533ff21f4851d11566808d4082544baf063d9b96ea77c27e98b7cd99",
-      "download_count": 19817,
+      "download_count": 19994,
       "created_at": "2026-02-25T19:27:39Z",
       "updated_at": "2026-02-25T19:27:39Z",
       "browser_download_url": "https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-aarch64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 927982,
       "digest": "sha256:1fca1e9c91813a8aac6821063c923107ba0f66a83309e095edcd3b202f67f97e",
-      "download_count": 1822,
+      "download_count": 1827,
       "created_at": "2026-02-25T19:27:24Z",
       "updated_at": "2026-02-25T19:27:25Z",
       "browser_download_url": "https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 915261,
       "digest": "sha256:c460cd35514d1877ff7116034567c95c92b62f9f662f53a34bb02f96edf0483c",
-      "download_count": 1086,
+      "download_count": 1090,
       "created_at": "2026-02-25T19:28:39Z",
       "updated_at": "2026-02-25T19:28:39Z",
       "browser_download_url": "https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-pc-windows-gnu.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 888027,
       "digest": "sha256:59837c2e7c911099aca1cc46b663bcdc5a949fd3e9fbbaf34fc73e5d5d71007c",
-      "download_count": 9383,
+      "download_count": 9406,
       "created_at": "2026-02-25T19:27:45Z",
       "updated_at": "2026-02-25T19:27:46Z",
       "browser_download_url": "https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 988815,
       "digest": "sha256:3613eca74cd686739bb5a6d68319aa56c747e7315274d02323a2ca2b1c5d82d2",
-      "download_count": 30162,
+      "download_count": 30361,
       "created_at": "2026-02-25T19:27:06Z",
       "updated_at": "2026-02-25T19:27:06Z",
       "browser_download_url": "https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1049511,
       "digest": "sha256:02f00f4777d43e8e95b7b8d49e1a0d6e502fed4b8e79c1c8b8063857a30caa2e",
-      "download_count": 45615,
+      "download_count": 45832,
       "created_at": "2026-02-25T19:27:08Z",
       "updated_at": "2026-02-25T19:27:08Z",
       "browser_download_url": "https://github.com/chmln/sd/releases/download/v1.1.0/sd-v1.1.0-x86_64-unknown-linux-musl.tar.gz"
