@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,385 · **Forks**: 172 · **Open issues**: 192 · **Contributors**: 30
+- **Stars**: 7,385 · **Forks**: 172 · **Open issues**: 193 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 108 · **Open PRs**: 23 · **Closed issues**: 134 · **Open issues**: 58 · **Commits**: 336
+- **Releases**: 12 · **Merged PRs**: 108 · **Open PRs**: 23 · **Closed issues**: 134 · **Open issues**: 59 · **Commits**: 336
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 7 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 12 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 13 | 0 | 3 | 0 |
-| 360d | 2025-10-12 | 1 | 3 | 16 | 6 | 7 | 8 |
-| last720d | 2024-10-17 | 1 | 4 | 17 | 12 | 11 | 15 |
+| 30d | 2026-09-08 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 7 | 0 | 1 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 12 | 0 | 1 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 13 | 0 | 4 | 0 |
+| 360d | 2025-10-13 | 1 | 3 | 16 | 6 | 8 | 8 |
+| last720d | 2024-10-18 | 1 | 4 | 17 | 12 | 12 | 15 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for sd lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:43:10Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:52:10Z._
